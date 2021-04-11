@@ -1,6 +1,6 @@
 {
-	"author": "Tri Ly",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Tri Ly",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
