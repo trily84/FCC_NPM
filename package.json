@@ -1,6 +1,7 @@
 {
 	"author": "Tri Ly",
 	"name": "fcc-learn-npm-package-json",
+	"description": "Freecodecamp npm course",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
